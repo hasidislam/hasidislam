@@ -11,7 +11,7 @@ I like to work in such a place in such a position where I could use my interpers
 
 
 
-- 🔭 I’m currently working on this page. 
+
 - 🌱 I’m currently learning React/JavaScript/TailwindCSS 
 - 👯 I’m looking to collaborate on Github 
 
